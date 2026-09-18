@@ -1,6 +1,6 @@
 # Olá, eu sou o Kaique 👋
 
-Estudante de Desenvolvimento Backend, focado em construir APIs REST bem estruturadas com Node.js, NestJS e bancos relacionais.
+Estudante de Desenvolvimento Full Stack, com foco maior em Backend — construindo APIs REST bem estruturadas com Node.js, NestJS e bancos relacionais, e complementando com Front-end.
 
 ## 🛠️ Stack e Competências
 
