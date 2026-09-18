@@ -63,10 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaiquesantos-dev&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiquesantos-dev&theme=default" alt="GitHub Streak" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesantos-dev&layout=compact&theme=default" alt="Top Languages" height="165" />
 
 </div>
 
